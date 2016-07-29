@@ -1,0 +1,4 @@
+project=null_local_issue
+architecture=container
+test=minitest
+template=erb
